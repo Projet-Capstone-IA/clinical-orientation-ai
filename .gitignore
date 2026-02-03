@@ -1,0 +1,67 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.env
+.venv
+venv/
+env/
+
+# =========================
+# IDE / Editeurs
+# =========================
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# =========================
+# Jupyter / Data science
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# Données & modèles
+# =========================
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+
+# models/
+checkpoints/
+# *.pt
+# *.pth
+# *.ckpt
+# *.joblib
+# *.pkl
+
+# =========================
+# Logs & sorties
+# =========================
+logs/
+*.log
+outputs/
+results/
+
+# =========================
+# Tests / couverture
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
