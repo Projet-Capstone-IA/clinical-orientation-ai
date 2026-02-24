@@ -6,3 +6,4 @@ spacy
 matplotlib
 seaborn
 scikit-learn
+ipykernel
