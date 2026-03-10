@@ -38,7 +38,7 @@ datasets/
 # *.hdf5
 
 # models/
-checkpoints/
+# checkpoints/
 # *.pt
 # *.pth
 # *.ckpt
