@@ -52,6 +52,7 @@ logs/
 *.log
 outputs/
 results/
+notebooks/results
 
 # =========================
 # Tests / couverture
