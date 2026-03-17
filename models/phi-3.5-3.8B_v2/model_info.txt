@@ -1,0 +1,4 @@
+Model: phi-3.5-3.8B
+Test loss: 10.7010
+Test perplexity: 44401.96
+Local path: ../models/phi-3.5-3.8B_v2
